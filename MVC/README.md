@@ -1,7 +1,6 @@
 # Model View Controller
 
-## Introduction
-     Model View Controller Architecture Design Pattern is the most common architecture found in iOS apps and is recommended by Apple. MVC patterns consist of three layers namely Model, View and Controller.
+Model View Controller Architecture Design Pattern is the most common architecture found in iOS apps and is recommended by Apple. MVC patterns consist of three layers namely Model, View and Controller.
 
 1. **Model**
      Models are representations of application data and it encapsulate the data specific to an application and define the logic and computation that manipulate and process that data. Things such as objects, network code, parsing code and so on reside here.
